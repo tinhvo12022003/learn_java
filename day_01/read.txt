@@ -1,0 +1,10 @@
+javac Main.java
+java Main
+
+public class : khoi tao mot class
+
+main : ham chinh
+
+public : access modify
+
+
