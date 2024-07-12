@@ -1,0 +1,6 @@
+khoi tao package
+
+javac -d . class.java
+java "pack".class
+
+
