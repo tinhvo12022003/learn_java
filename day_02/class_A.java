@@ -1,4 +1,4 @@
-package vntinh.classA;
+package classA;
 
 public class class_A {
 	public void msg(){

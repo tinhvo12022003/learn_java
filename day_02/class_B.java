@@ -1,8 +1,8 @@
-import vntinh.classA.*;
+import class_A;
 
 public class class_B {
 	public static void main(String[] args){
-		vntinh.classA.class_A obj = new vntinh.classA.class_A();
+		class_A obj = new class_A();
 		obj.msg();
 	}
 }
