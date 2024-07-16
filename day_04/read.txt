@@ -1,0 +1,13 @@
+# tu khoa this trong java
+
+1. Tham chieu toi bien instance cua lop hien tai
+
+2. Su dung this der goi constructor cua lop hien tai
+
+3. Goi phuong thuc cua lop hien tai
+
+4. Su dung this nhu tham so cua phuong thuc (Object)
+
+5. Su dung this nhu tham so cua constructor
+
+6. Su dung this de tra ve instance cua lop hien tai
