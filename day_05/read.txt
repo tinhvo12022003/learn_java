@@ -1,0 +1,8 @@
+# tu khoa super trong java
+
+1. Tham chieu den bien instance cua lop cha gan nhat'
+
+2. super() goi truc tiep constructor cua lop cha
+
+3. Goi truc tiep phuong thuc cua lop cha
+
