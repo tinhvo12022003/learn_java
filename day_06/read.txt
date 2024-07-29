@@ -1,0 +1,16 @@
+Tu khoa final trong java
+
+1. Bien final trong java
+- Bien final khong the thay doi gia tri
+
+2. Phuong thuc final
+- Khong the ghi de phuong thuc final
+
+3. Class final
+- Khong the ke thua lop final
+
+4. Bien static final trong trong java
+- Mot bien static final ma khong duoc khoi tao tai thoi\
+diem khai bao thi do la bien static final trong. No chi co the\
+duoc khoi tao trong khoi static
+
