@@ -1,0 +1,9 @@
+Lop abstract trong java
+
+Cach de dat su truu tuong hoa: 
+
+1. Su dung lop abstract
+
+2. Su dung interface
+
+
