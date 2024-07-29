@@ -1,0 +1,32 @@
+Bien static trong java
+
+1. Bien static duoc su dung de tham chieu thuoc tinh chung\
+cua tat ca doi tuong
+
+2. Bien static lay bo nho chi mot lan torng class area tai\
+thoi gian tai lop do.
+
+Loi the:
+- Su dung bo nho hieu qua hon
+- Se chi lay bo nho 1 lan
+
+Phuong thuc static trong java
+
+1. Mot phuong thuc static thuoc lop chu khong phai doi tuong cua lop
+
+2. Mot phuong thuc static goi ma khong can tao mot instance cua mot lop
+
+3. Co the truy cap bien instance va thay doi gia tri cua no
+
+
+Han che cua phuong thuc static
+
+1. Khong the goi phuong thuc non-instance
+
+2. Tu khoa this va super khong the duoc su dung
+
+Khoi static trong java
+
+1. Khoi tao thanh vien du lieu static
+
+2. Duoc thuc thi truoc phuong thuc main tai luc tai lop
